@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial_Baseband_IQ_EVM", "Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM.csproj", "{52677FB1-0C9F-4852-BEC4-1679B83C8032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52677FB1-0C9F-4852-BEC4-1679B83C8032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52677FB1-0C9F-4852-BEC4-1679B83C8032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52677FB1-0C9F-4852-BEC4-1679B83C8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52677FB1-0C9F-4852-BEC4-1679B83C8032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549C7276-EA08-4709-B727-64A476677E1E}
+	EndGlobalSection
+EndGlobal

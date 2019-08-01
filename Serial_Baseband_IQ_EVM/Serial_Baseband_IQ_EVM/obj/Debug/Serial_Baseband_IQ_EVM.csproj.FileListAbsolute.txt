@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\bin\Debug\Serial_Baseband_IQ_EVM.exe.config
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\bin\Debug\Serial_Baseband_IQ_EVM.exe
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\bin\Debug\Serial_Baseband_IQ_EVM.pdb
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.Form1.resources
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.Properties.Resources.resources
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.exe
+C:\Users\user\source\repos\Serial_Baseband_IQ_EVM\Serial_Baseband_IQ_EVM\obj\Debug\Serial_Baseband_IQ_EVM.pdb
